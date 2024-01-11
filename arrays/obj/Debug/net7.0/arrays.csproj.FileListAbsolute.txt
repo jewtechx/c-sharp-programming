@@ -1,0 +1,15 @@
+/workspaces/c-sharp-programming/arrays/bin/Debug/net7.0/arrays
+/workspaces/c-sharp-programming/arrays/bin/Debug/net7.0/arrays.deps.json
+/workspaces/c-sharp-programming/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/workspaces/c-sharp-programming/arrays/bin/Debug/net7.0/arrays.dll
+/workspaces/c-sharp-programming/arrays/bin/Debug/net7.0/arrays.pdb
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.dll
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/refint/arrays.dll
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.pdb
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/workspaces/c-sharp-programming/arrays/obj/Debug/net7.0/ref/arrays.dll

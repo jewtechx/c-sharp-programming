@@ -1,0 +1,15 @@
+/workspaces/c-sharp-programming/method/bin/Debug/net7.0/method
+/workspaces/c-sharp-programming/method/bin/Debug/net7.0/method.deps.json
+/workspaces/c-sharp-programming/method/bin/Debug/net7.0/method.runtimeconfig.json
+/workspaces/c-sharp-programming/method/bin/Debug/net7.0/method.dll
+/workspaces/c-sharp-programming/method/bin/Debug/net7.0/method.pdb
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.csproj.AssemblyReference.cache
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.AssemblyInfoInputs.cache
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.AssemblyInfo.cs
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.dll
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/refint/method.dll
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.pdb
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/method.genruntimeconfig.cache
+/workspaces/c-sharp-programming/method/obj/Debug/net7.0/ref/method.dll

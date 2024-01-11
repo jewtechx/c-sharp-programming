@@ -1,0 +1,15 @@
+/workspaces/c-sharp-programming/conditionals/bin/Debug/net7.0/conditionals
+/workspaces/c-sharp-programming/conditionals/bin/Debug/net7.0/conditionals.deps.json
+/workspaces/c-sharp-programming/conditionals/bin/Debug/net7.0/conditionals.runtimeconfig.json
+/workspaces/c-sharp-programming/conditionals/bin/Debug/net7.0/conditionals.dll
+/workspaces/c-sharp-programming/conditionals/bin/Debug/net7.0/conditionals.pdb
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.csproj.AssemblyReference.cache
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.AssemblyInfoInputs.cache
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.AssemblyInfo.cs
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.dll
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/refint/conditionals.dll
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.pdb
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/conditionals.genruntimeconfig.cache
+/workspaces/c-sharp-programming/conditionals/obj/Debug/net7.0/ref/conditionals.dll
