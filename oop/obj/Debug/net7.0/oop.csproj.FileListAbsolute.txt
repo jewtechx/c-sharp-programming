@@ -1,0 +1,15 @@
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.csproj.AssemblyReference.cache
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.AssemblyInfoInputs.cache
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.AssemblyInfo.cs
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-programming/oop/bin/Debug/net7.0/oop
+/workspaces/c-sharp-programming/oop/bin/Debug/net7.0/oop.deps.json
+/workspaces/c-sharp-programming/oop/bin/Debug/net7.0/oop.runtimeconfig.json
+/workspaces/c-sharp-programming/oop/bin/Debug/net7.0/oop.dll
+/workspaces/c-sharp-programming/oop/bin/Debug/net7.0/oop.pdb
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.dll
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/refint/oop.dll
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.pdb
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/oop.genruntimeconfig.cache
+/workspaces/c-sharp-programming/oop/obj/Debug/net7.0/ref/oop.dll

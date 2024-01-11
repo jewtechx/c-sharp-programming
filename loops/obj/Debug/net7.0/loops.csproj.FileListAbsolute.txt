@@ -1,0 +1,15 @@
+/workspaces/c-sharp-programming/loops/bin/Debug/net7.0/loops
+/workspaces/c-sharp-programming/loops/bin/Debug/net7.0/loops.deps.json
+/workspaces/c-sharp-programming/loops/bin/Debug/net7.0/loops.runtimeconfig.json
+/workspaces/c-sharp-programming/loops/bin/Debug/net7.0/loops.dll
+/workspaces/c-sharp-programming/loops/bin/Debug/net7.0/loops.pdb
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.csproj.AssemblyReference.cache
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.AssemblyInfoInputs.cache
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.AssemblyInfo.cs
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.dll
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/refint/loops.dll
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.pdb
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/loops.genruntimeconfig.cache
+/workspaces/c-sharp-programming/loops/obj/Debug/net7.0/ref/loops.dll
