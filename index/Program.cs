@@ -42,6 +42,18 @@ namespace Giraffe
             Console.WriteLine(test[0]);
             Console.WriteLine(test.IndexOf("c"));
             Console.WriteLine(test.Substring(3,3));
+
+            // numbers
+            Console.WriteLine(Math.Pow(3,6));
+            Console.WriteLine(Math.Min(3,6));
+            Console.WriteLine(Math.Max(3,6));
+
+            // get input from user
+            Console.Write("Ënter your name: ");
+            string user_name = Console.ReadLine();
+
+            Console.WriteLine("Hello " + user_name);
+
         }
     }
 }
